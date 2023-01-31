@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+sealed class Program
 {
 
     public static bool loopProgram = true;
