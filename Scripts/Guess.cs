@@ -1,6 +1,6 @@
 using System;
 
-class Guess
+sealed class Guess
 {
     static string? numberString { get; set; }
     static ushort inputNumber { get; set; }
