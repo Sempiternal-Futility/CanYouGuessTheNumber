@@ -1,6 +1,7 @@
 # CAN YOU GUESS THE NUMBER ?
 
-Once you start the game, it will ask your for the maximum number you want to guess from
+Once you start the game, it will ask your for the maximum number you want to guess from.
+
 After that it will ask your for a number, if the number is very far it will tell you that it's far, otherwise it will tell you that its close
 
 This is how it works:
